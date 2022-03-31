@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="UD_rscapexdt" value="name:NoCapex;datatype:T_NoTran,name:Seq;datatype:int,name:BudgetID;datatype:T_NoTran,name:NamaBarang;datatype:T_NoTran,name:Qty;datatype:float,name:Price;datatype:float,name:QtyPrice;datatype:float,name:IDRPRice;datatype:float,name:RatePrice;datatype:float,name:IDRQTYPrice;datatype:float,name:CurrencyID;datatype:T_NoTran,name:UpdateUsr;datatype:T_NoTran,name:UpdateDate;datatype:smalldatetime,name:NoID;datatype:int" />
+</info>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsCompany" value="name:CompanyID;datatype:T_NoTran,name:CompanyName;datatype:T_NoTran,name:UpdateUsr;datatype:T_NoTran,name:UpdateDate;datatype:smalldatetime" />
+</info>

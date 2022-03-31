@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="UD_rsPHargaDT" value="name:NoAOC;datatype:T_NoTran,name:PHSeq;datatype:int,name:Keterangan;datatype:T_NoTran,name:PHKeterangan;datatype:T_NoTran,name:QTY;datatype:float,name:Price;datatype:T_NoTran,name:Vendor1;datatype:T_NoTran,name:Vendor2;datatype:T_NoTran,name:Vendor3;datatype:T_NoTran" />
+	<infoitem key="UD_rsPHargaHD" value="name:NoAOC;datatype:T_NoTran,name:UpdateUsr;datatype:T_NoTran,name:UpdateDate;datatype:smalldatetime,name:PHVendorName1;datatype:T_NoTran,name:PHVendorName2;datatype:T_NoTran,name:PHVendorName3;datatype:T_NoTran,name:VendorYgDipilih;datatype:T_NoTran,name:PHReason;datatype:T_NoTran" />
+</info>

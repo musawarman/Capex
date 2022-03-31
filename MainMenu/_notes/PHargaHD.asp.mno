@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="UD_rsaochead" value="name:NoAOC;datatype:T_NoTran,name:NoCapex;datatype:T_NoTran,name:VendorID;datatype:T_NoTran,name:UpdateUsr;datatype:T_NoTran,name:UpdateDate;datatype:smalldatetime,name:TglAOC;datatype:smalldatetime,name:Detail;datatype:T_NoTran,name:ProsesApproval;datatype:T_NoTran,name:PenawaranHarga;datatype:T_NoTran" />
+	<infoitem key="UD_rsVendor" value="name:VendorID;datatype:T_NoTran" />
+</info>

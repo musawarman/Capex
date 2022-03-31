@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="UD_rsCurrency" value="name:CurrencyID;datatype:varchar,name:CurrencyName;datatype:varchar,name:UpdateUsr;datatype:varchar,name:UpdateDate;datatype:smalldatetime" />
+</info>

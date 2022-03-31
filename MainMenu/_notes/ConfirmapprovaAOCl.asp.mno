@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="UD_rsJabatan" value="name:JabatanID;datatype:varchar,name:UpdateUsr;datatype:varchar,name:UpdateDate;datatype:smalldatetime,name:JabatanLevel;datatype:int" />
+</info>

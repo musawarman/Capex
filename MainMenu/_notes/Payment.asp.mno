@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="UD_requestCount" value="0" />
+	<infoitem key="UD_rsAOCHD" value="name:NoAOC;datatype:T_NoTran,name:UpdateUsr;datatype:T_NoTran,name:UpdateDate;datatype:smalldatetime" />
+</info>

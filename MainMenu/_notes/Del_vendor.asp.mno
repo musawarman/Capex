@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsVendor" value="name:VendorID;datatype:T_NoTran,name:VendorName;datatype:T_NoTran,name:ContactPerson;datatype:T_NoTran,name:UpdateUsr;datatype:T_NoTran,name:UpdateDate;datatype:smalldatetime" />
+</info>

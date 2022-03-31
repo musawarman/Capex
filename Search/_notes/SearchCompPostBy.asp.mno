@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="UD_rsCompany" value="name:CompanyID;datatype:varchar,name:CompanyName;datatype:varchar,name:UpdateUsr;datatype:varchar,name:UpdateDate;datatype:smalldatetime" />
+</info>

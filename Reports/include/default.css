@@ -1,0 +1,217 @@
+BODY {
+	FONT-SIZE: 9pt; FONT-FAMILY: verdana; BACKGROUND-COLOR: #ffffff
+}
+A {
+	TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: red
+}
+.header {
+	FONT-SIZE: 9pt; COLOR: white; FONT-FAMILY: verdana; BACKGROUND-COLOR: #006699
+}
+.headerWelcome {
+	FONT-WEIGHT: bold
+}
+.headerTitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 12pt; FONT-FAMILY: verdana
+}
+A.headerTitle {
+	COLOR: #006699
+}
+A.header {
+	COLOR: white
+}
+.menu {
+	FONT-SIZE: 9pt; COLOR: white; FONT-FAMILY: verdana; BACKGROUND-COLOR: black
+}
+.menuTitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 14pt; FONT-FAMILY: verdana
+}
+.menuItem {
+	FONT-SIZE: 8pt; FONT-FAMILY: verdana
+}
+A.menuItem {
+	COLOR: white
+}
+.menuFormElement {
+	FONT-SIZE: 9pt; FONT-FAMILY: verdana
+}
+.category {
+	FONT-SIZE: 9pt; COLOR: #006699; FONT-FAMILY: verdana; BACKGROUND-COLOR: white
+}
+.path {
+	FONT-SIZE: 9pt; COLOR: white; FONT-FAMILY: verdana; BACKGROUND-COLOR: black
+}
+A.path {
+	COLOR: white
+}
+.pathSelected {
+	FONT-WEIGHT: bold; COLOR: #6699ff
+}
+.pathSelectedType {
+	COLOR: #6699ff
+}
+INPUT.list {
+	FONT-SIZE: 10pt; FONT-FAMILY: verdana
+}
+.list {
+	FONT-SIZE: 9pt; FONT-FAMILY: verdana
+}
+.listReadOnly {
+	FONT-SIZE: 8pt; COLOR: #808080; FONT-FAMILY: Verdana
+}
+.listReadOnlyStrong {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #808080; FONT-FAMILY: Verdana
+}
+.listReadOnlySpecial {
+	FONT-SIZE: 8pt; COLOR: #808080; FONT-STYLE: italic; FONT-FAMILY: Verdana
+}
+A.list {
+	COLOR: #006699
+}
+.listHeading {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; PADDING-BOTTOM: 2px; PADDING-TOP: 2px; FONT-FAMILY: verdana; BACKGROUND-COLOR: #cccccc
+}
+.listUnavailable {
+	FONT-SIZE: 8pt; COLOR: #aaaaaa; FONT-FAMILY: verdana
+}
+.itemUnavailable {
+	FONT-SIZE: 9pt; COLOR: #aaaaaa; FONT-FAMILY: verdana
+}
+
+.listSelected {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; FONT-FAMILY: verdana
+}
+.schedule {
+	FONT-SIZE: 9pt; COLOR: black; FONT-FAMILY: verdana
+}
+.main {
+	FONT-SIZE: 9pt; COLOR: black; FONT-FAMILY: verdana
+}
+A.main {
+	COLOR: white
+}
+.history {
+	FONT-SIZE: 9pt; COLOR: gray; FONT-FAMILY: verdana
+}
+A.history {
+	COLOR: #006699
+}
+.historyheader {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: black; FONT-FAMILY: verdana; BACKGROUND-COLOR: white
+}
+A.historyheader {
+	COLOR: #6699ff
+}
+.orgfolders {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: verdana
+}
+.orgreports {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #336699; FONT-FAMILY: verdana
+}
+.cell {
+	BACKGROUND-COLOR: #f0f8ff
+}
+.listbox {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; FONT-FAMILY: verdana
+}
+.buttonIE {
+	FONT-SIZE: 9pt; FONT-FAMILY: verdana
+}
+.buttonNN {
+	FONT-SIZE: 9pt; FONT-FAMILY: verdana
+}
+.alerts {
+	FONT-SIZE: 9pt; COLOR: black; FONT-FAMILY: verdana
+}
+A.alerts {
+	COLOR: #6699ff
+}
+.alertsheader {
+	FONT-SIZE: 9pt; COLOR: black; FONT-FAMILY: verdana; BACKGROUND-COLOR: white
+}
+A.notclickable {
+	CURSOR: default; COLOR: #000000; TEXT-DECORATION: none
+}
+A.notclickable:active {
+	CURSOR: default; COLOR: #000000; TEXT-DECORATION: none
+}
+A.notclickable:hover {
+	CURSOR: default; COLOR: #000000; TEXT-DECORATION: none
+}
+A.notclickable:visited {
+	CURSOR: default; COLOR: #000000; TEXT-DECORATION: none
+}
+.inputDisabled {
+	FONT-SIZE: 9pt; COLOR: #606060; FONT-FAMILY: verdana; BACKGROUND-COLOR: #cccccc
+}
+TD.inputDisabled {
+	FONT-SIZE: 9pt; COLOR: #606060; FONT-FAMILY: verdana; BACKGROUND-COLOR: #cccccc
+}
+DIV.inputDisabled {
+	BORDER-RIGHT: #cccccc 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; BORDER-BOTTOM: #cccccc 1px solid; BACKGROUND-COLOR: #cccccc
+}
+DIV.clsButton {
+	BORDER-RIGHT: #000000 1px solid; PADDING-RIGHT: 6px; BORDER-TOP: #000000 1px solid; PADDING-LEFT: 6px; PADDING-BOTTOM: 0px; BORDER-LEFT: #000000 1px solid; PADDING-TOP: 0px; BORDER-BOTTOM: #000000 1px solid
+}
+TD.clsButton {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; FONT-FAMILY: sans-serif; BACKGROUND-COLOR: #cccccc
+}
+TD.clsButton A {
+	CURSOR: hand; COLOR: #000000; TEXT-DECORATION: none
+}
+TD.clsButton A:hover {
+	COLOR: #0000ff
+}
+TD.clsButtonDisabled {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; FONT-FAMILY: sans-serif; BACKGROUND-COLOR: #cccccc
+}
+TD.clsButtonDisabled A {
+	CURSOR: default; COLOR: #ffffff; TEXT-DECORATION: none
+}
+TD.clsButtonDisabled A:hover {
+	COLOR: #ffffff
+}
+.clsPathSeparator {
+	COLOR: #99ccff
+}
+TD.clsTabSelected {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; FONT-WEIGHT: bold; FONT-SIZE: 9pt; PADDING-BOTTOM: 2px; COLOR: white; PADDING-TOP: 2px; FONT-FAMILY: verdana; BACKGROUND-COLOR: #006699
+}
+DIV.clsTabSelected {
+	BORDER-RIGHT: #006699 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #006699 1px solid; PADDING-LEFT: 2px; BORDER-LEFT: #006699 1px solid; BORDER-BOTTOM: #006699 1px solid
+}
+TD.clsTab {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #ffffff; FONT-FAMILY: verdana; BACKGROUND-COLOR: #000000
+}
+DIV.clsTab {
+	BORDER-RIGHT: #000000 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #000000 1px solid; PADDING-LEFT: 2px; BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid
+}
+TD.clsTabDisabled {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #ffffff; FONT-FAMILY: verdana; BACKGROUND-COLOR: #cccccc
+}
+DIV.clsTabDisabled {
+	BORDER-RIGHT: #cccccc 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #cccccc 1px solid; PADDING-LEFT: 2px; BORDER-LEFT: #cccccc 1px solid; BORDER-BOTTOM: #cccccc 1px solid
+}
+TD.clsTabSpacer {
+	WIDTH: 1px; BACKGROUND-COLOR: #ffffff
+}
+TR.clsTabBar {
+	BACKGROUND-COLOR: #006699
+}
+TD.clsTab A {
+	CURSOR: hand; COLOR: white; TEXT-DECORATION: none
+}
+TD.clsTab A:hover {
+	COLOR: #75a3d1
+}
+.clsError {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #ff0000; FONT-FAMILY: verdana
+}
+.clsErrMsg {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: verdana
+}
+.clsErrReason {
+	FONT-SIZE: 9pt; COLOR: #000000; FONT-STYLE: italic; FONT-FAMILY: verdana
+}

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="UD_rsAOCDT" value="name:NoAOC;datatype:T_NoTran,name:AOCSeq;datatype:int,name:CurrencyID;datatype:T_NoTran,name:UpdateUsr;datatype:T_NoTran,name:UpdateDate;datatype:smalldatetime,name:AOCNamaBArang;datatype:T_NoTran,name:AOCQty;datatype:float,name:AOCPrice;datatype:float,name:AOCQTYPrice;datatype:float,name:IDRPRice;datatype:float,name:IDRQTYPrice;datatype:float" />
+	<infoitem key="UD_UpdateIDR" value="name:@RETURN_VALUE;direction:4;datatype:int;,name:@NoAOC;direction:1;datatype:varchar;" />
+</info>

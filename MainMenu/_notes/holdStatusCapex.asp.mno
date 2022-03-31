@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="UD_rsCapexHD" value="name:NoCapex;datatype:T_NoTran,name:StatusCapex;datatype:T_NoTran,name:UpdateUsr;datatype:T_NoTran,name:Hold_Capex_By;datatype:T_NoTran,name:Hold_Reason;datatype:T_NoTran" />
+</info>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="UD_rsPriority" value="name:PriorityID;datatype:T_NoTran,name:UpdateUsr;datatype:T_NoTran,name:UpdateDate;datatype:smalldatetime" />
+	<infoitem key="UD_rsdivisi" value="name:DivisiID;datatype:T_NoTran,name:CompanyID;datatype:T_NoTran,name:DivisiName;datatype:T_NoTran,name:UpdateUsr;datatype:T_NoTran,name:UpdateDate;datatype:smalldatetime" />
+	<infoitem key="UD_rsBudget" value="name:BudgetID;datatype:T_NoTran,name:BudgetName;datatype:T_NoTran,name:UpdateUsr;datatype:T_NoTran,name:UpdateDate;datatype:smalldatetime,name:TotalBudget;datatype:float,name:TanggalBudget;datatype:smalldatetime,name:SaldoBudget;datatype:float" />
+	<infoitem key="UD_rsCurrency" value="name:CurrencyID;datatype:T_NoTran,name:CurrencyName;datatype:T_NoTran,name:UpdateUsr;datatype:T_NoTran,name:UpdateDate;datatype:smalldatetime" />
+	<infoitem key="UD_requestCount" value="0" />
+	<infoitem key="UD_GetRunNumber" value="name:@RETURN_VALUE;direction:4;datatype:int;,name:@Unit;direction:1;datatype:varchar;,name:@nocapex;direction:2;datatype:varchar;" />
+	<infoitem key="UD_rscapexHD" value="name:NoCapex;datatype:T_NoTran,name:DivisiID;datatype:T_NoTran,name:BudgetID;datatype:T_NoTran,name:PriorityID;datatype:T_NoTran,name:TglCapex;datatype:smalldatetime,name:Lokasi;datatype:T_NoTran,name:AmmountCurrency;datatype:float,name:AmmountRate;datatype:float,name:AmmountIDR;datatype:float,name:AmmountIDRAOC;datatype:float,name:Reason;datatype:T_NoTran,name:StatusCapex;datatype:T_NoTran,name:CurrencyID;datatype:T_NoTran,name:UpdateUsr;datatype:T_NoTran,name:UpdateDate;datatype:smalldatetime,name:Detail;datatype:T_NoTran,name:NoID;datatype:int,name:ProsesApproval;datatype:T_NoTran,name:ApproveCapex;datatype:T_NoTran,name:Hold_Capex_By;datatype:T_NoTran,name:Hold_Reason;datatype:T_NoTran" />
+</info>

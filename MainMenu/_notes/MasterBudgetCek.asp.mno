@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsBudget" value="name:BudgetID;datatype:T_NoTran,name:BudgetName;datatype:T_NoTran,name:UpdateUsr;datatype:T_NoTran,name:UpdateDate;datatype:smalldatetime,name:TotalBudget;datatype:float,name:TanggalBudget;datatype:smalldatetime,name:SaldoBudget;datatype:float" />
+</info>

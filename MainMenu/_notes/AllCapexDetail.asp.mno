@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="UD_rscapexdt" value="name:NoCapex;datatype:T_NoTran,name:Seq;datatype:int,name:BudgetID;datatype:T_NoTran,name:NamaBarang;datatype:T_NoTran,name:Qty;datatype:float,name:Price;datatype:float,name:QtyPrice;datatype:float,name:IDRPRice;datatype:float,name:RatePrice;datatype:float,name:IDRQTYPrice;datatype:float,name:CurrencyID;datatype:T_NoTran,name:UpdateUsr;datatype:T_NoTran,name:UpdateDate;datatype:smalldatetime,name:NoID;datatype:int" />
+	<infoitem key="UD_rscapexhd" value="name:NoCapex;datatype:T_NoTran,name:DivisiID;datatype:T_NoTran,name:BudgetID;datatype:T_NoTran,name:PriorityID;datatype:T_NoTran,name:TglCapex;datatype:smalldatetime,name:Lokasi;datatype:T_NoTran,name:AmmountCurrency;datatype:float,name:AmmountRate;datatype:float,name:AmmountIDR;datatype:float,name:Reason;datatype:T_NoTran,name:StatusCapex;datatype:T_NoTran,name:CurrencyID;datatype:T_NoTran,name:UpdateUsr;datatype:T_NoTran,name:UpdateDate;datatype:smalldatetime,name:Detail;datatype:T_NoTran,name:NoID;datatype:int,name:ProsesApproval;datatype:T_NoTran" />
+</info>

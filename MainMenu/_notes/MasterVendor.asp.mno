@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsDivisi" value="name:DivisiID;datatype:T_NoTran,name:CompanyID;datatype:T_NoTran,name:DivisiName;datatype:T_NoTran,name:UpdateUsr;datatype:T_NoTran,name:UpdateDate;datatype:smalldatetime" />
+</info>

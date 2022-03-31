@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="UD_GetRunNumberAOC" value="name:@RETURN_VALUE;direction:4;datatype:int;,name:@nocapex;direction:1;datatype:varchar;,name:@NoAoc;direction:2;datatype:varchar;" />
+</info>

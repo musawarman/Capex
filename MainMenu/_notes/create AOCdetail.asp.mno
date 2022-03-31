@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsaochead" value="name:NoAOC;datatype:T_NoTran,name:AOCNamaBarang;datatype:T_NoTran,name:AOCQty;datatype:int,name:AOCPrice;datatype:T_NoTran,name:AOCQTYPrice;datatype:T_NoTran,name:IDRprice;datatype:float,name:IDRQTYPrice;datatype:float" />
+	<infoitem key="UD_rscurrency" value="name:CurrencyID;datatype:T_NoTran" />
+</info>

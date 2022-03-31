@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="UD_rsuser" value="name:MemberID;datatype:int,name:JabatanID;datatype:T_NoTran,name:UserID;datatype:T_NoTran,name:UserName;datatype:T_NoTran,name:UserPassword;datatype:T_NoTran,name:UserLEvel;datatype:int,name:UserStatus;datatype:T_NoTran,name:UpdateUsr;datatype:T_NoTran,name:UpdateDate;datatype:smalldatetime,name:Del;datatype:T_NoTran,name:UpdateJabatan;datatype:T_NoTran" />
+</info>

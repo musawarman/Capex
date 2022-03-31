@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="UD_rsJabatan" value="name:JabatanID;datatype:varchar,name:UpdateUsr;datatype:varchar,name:UpdateDate;datatype:smalldatetime,name:JabatanLevel;datatype:int" />
+	<infoitem key="UD_rsCapexAppr" value="name:JabatanID;datatype:varchar,name:UserID;datatype:varchar,name:NoCapex;datatype:varchar,name:UpdateUsr;datatype:varchar,name:UpdateDate;datatype:smalldatetime,name:TanggalApprCapex;datatype:smalldatetime,name:Approve;datatype:varchar" />
+	<infoitem key="UD_ConfirmFailApprAOC" value="name:@RETURN_VALUE;direction:4;datatype:int;,name:@Nocapex;direction:1;datatype:varchar;,name:@Informasi;direction:2;datatype:varchar;" />
+</info>

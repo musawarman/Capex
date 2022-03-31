@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="UD_rswcapexHD" value="name:NoCapex;datatype:varchar,name:DivisiID;datatype:varchar,name:BudgetID;datatype:varchar,name:PriorityID;datatype:varchar,name:TglCapex;datatype:smalldatetime,name:Lokasi;datatype:varchar,name:AmmountCurrency;datatype:float,name:AmmountRate;datatype:float,name:AmmountIDR;datatype:float,name:Reason;datatype:varchar,name:StatusCapex;datatype:varchar,name:CurrencyID;datatype:varchar,name:UpdateUsr;datatype:varchar,name:UpdateDate;datatype:smalldatetime" />
+	<infoitem key="UD_rsPaymentEstimasi" value="name:NoAOC;datatype:T_NoTran,name:PaymentSeq;datatype:int,name:UpdateUsr;datatype:T_NoTran,name:UpdateDate;datatype:smalldatetime,name:PAymenyDesc;datatype:T_NoTran,name:PaymentPrcn;datatype:float,name:PaymentEstimasi;datatype:float,name:PaymentActual;datatype:float,name:TanggalEstimasi;datatype:smalldatetime,name:TanggalActual;datatype:smalldatetime,name:TanggalBPU;datatype:smalldatetime,name:BankBPU;datatype:T_NoTran,name:NoBPU;datatype:T_NoTran,name:NOBG_CH;datatype:T_NoTran,name:TypePaymentBG_CH;datatype:T_NoTran" />
+</info>

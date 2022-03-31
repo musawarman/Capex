@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="PageAccessControlMethod" value="dontUseAccessList" />
+	<infoitem key="PageAccessControl" value="1,2,3,4,5,6,7,8" />
+	<infoitem key="UD_Session1" value="UpdateUsr" />
+	<infoitem key="UD_sessionCount" value="6" />
+	<infoitem key="UD_Session2" value="UpdateJabatan" />
+	<infoitem key="UD_applicationCount" value="0" />
+	<infoitem key="UD_Session3" value="Updatedivisi" />
+	<infoitem key="UD_Session4" value="Updateno" />
+	<infoitem key="UD_Session5" value="Updatenocapex" />
+	<infoitem key="UD_Session6" value="UpdateNoAOC" />
+</info>

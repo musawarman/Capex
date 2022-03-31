@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="UD_rsAOCHD" value="name:NoAOC;datatype:T_NoTran,name:NoCapex;datatype:T_NoTran,name:VendorID;datatype:T_NoTran,name:StatusAOC;datatype:T_NoTran,name:TglAOC;datatype:smalldatetime,name:Hold_AOC_By;datatype:T_NoTran" />
+</info>

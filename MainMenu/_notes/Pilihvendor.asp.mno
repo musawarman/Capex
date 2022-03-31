@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="UD_LiveData_params" value="5" />
+	<infoitem key="UD_LiveData_param0" value="PHVendorName2=1" />
+	<infoitem key="UD_LiveData_param1" value="PHVendorName1=1" />
+	<infoitem key="UD_LiveData_param2" value="PHVendorName2=1" />
+	<infoitem key="UD_LiveData_param3" value="NoAOC=1" />
+	<infoitem key="UD_LiveData_param4" value="PHVendorName1=1" />
+	<infoitem key="UD_rsPharga" value="name:NoAOC;datatype:T_NoTran,name:PHVendorName1;datatype:T_NoTran,name:PHVendorName2;datatype:T_NoTran,name:PHVendorName3;datatype:T_NoTran,name:PHReason;datatype:T_NoTran" />
+	<infoitem key="UD_rsPHarga" value="name:PHVendorName1;datatype:T_NoTran,name:PHVendorName2;datatype:T_NoTran,name:PHVendorName3;datatype:T_NoTran,name:PHReason;datatype:T_NoTran,name:NoAOC;datatype:T_NoTran" />
+</info>
